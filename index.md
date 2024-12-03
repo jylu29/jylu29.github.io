@@ -3,6 +3,8 @@ layout: default
 title: Jiayu Lu - Research Portfolio
 ---
 
+# Home
+<a id="home"></a>
 
 ## Brief Introduction
 Hi, I am Jiayu Lu, a researcher specializing in deep learning applications in image analysis and computational frameworks for healthcare technologies. With a solid foundation in Computer and Biomedical Engineering, I aim to develop cutting-edge AI solutions to healthcare applications.
@@ -16,6 +18,7 @@ I have worked on projects like large language models for clinical text analysis 
 ---
 
 # Research
+<a id="research"></a>
 
 ## Projects
 
@@ -30,6 +33,7 @@ I have worked on projects like large language models for clinical text analysis 
 ---
 
 # Publications
+<a id="publications"></a>
 
 1. **DeepVID v2: self-supervised denoising with decoupled spatiotemporal enhancement for low-photon voltage imaging**  
    *Neurophotonics, 2024*
@@ -43,6 +47,7 @@ I have worked on projects like large language models for clinical text analysis 
 ---
 
 # About Me
+<a id="about-me"></a>
 
 ## Biography
 I am currently pursuing a Ph.D. in Electrical and Computer Engineering at the University of New Hampshire. Previously, I earned my master’s degree in ECE from Boston University. My professional journey spans academic research and software engineering roles where I contributed to AI-driven healthcare solutions.
