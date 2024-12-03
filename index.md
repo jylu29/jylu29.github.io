@@ -3,8 +3,6 @@ layout: default
 title: Jiayu Lu - Research Portfolio
 ---
 
-# Home
-<a id="home"></a>
 
 ## Brief Introduction
 Hi, I am Jiayu Lu, a researcher specializing in deep learning applications in image analysis and computational frameworks for healthcare technologies. With a solid foundation in Computer and Biomedical Engineering, I aim to develop cutting-edge AI solutions to healthcare applications.
