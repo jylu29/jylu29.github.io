@@ -1,123 +1,72 @@
 ---
 layout: default
+title: Jiayu Lu - Research Portfolio
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Home
 
-[Link to another page](./another-page.html).
+## Brief Introduction
+Hi, I am Jiayu Lu, a researcher specializing in deep learning applications in medical imaging and computational frameworks for healthcare technologies. With a solid foundation in Electrical, Computer, and Biomedical Engineering, I aim to develop cutting-edge AI solutions to improve clinical workflows and patient outcomes.
 
-There should be whitespace between paragraphs.
+## Field of Research
+My research focuses on applying deep learning techniques to medical imaging, dose prediction, and treatment planning in radiotherapy, as well as exploring innovative AI models for clinical applications.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Summary of Work
+I have worked on projects like large language models for clinical text analysis, deep learning frameworks for imaging noise reduction, and UNet-based solutions for radiotherapy planning. My work spans development, implementation, and validation of AI models for practical applications in healthcare.
 
-# Header 1
+---
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+# Research
 
-## Header 2
+## Projects
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+### Large Language Model-Based Detection of Misspelled Drug Names (2024)
+- Developed and validated a deep learning model to identify misspellings in clinical notes efficiently.
 
-### Header 3
+### Two-photon Voltage Imaging Denoising (2023)
+- Built a self-supervised deep learning framework with ResNet and UNet backbones to denoise imaging data.
+- Integrated advanced blind-spot convolutional layers to enhance network performance.
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+### UNet-based Workflow for Brachytherapy Treatment Planning (2022)
+- Devised a comprehensive UNet-based solution for organ segmentation and dose prediction in radiotherapy.
+- Incorporated a 3D Cascade UNet and Kernel Density Estimation to optimize dose metrics.
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+### Unsupervised Network for Metal Artifact Reduction (2022)
+- Implemented an Artifact Disentanglement Network to improve CT imaging quality by removing metal artifacts.
 
-#### Header 4
+### Semantic Lung Cancer Segmentation (2020)
+- Improved tumor contouring accuracy using Mask R CNN and convolutional block attention modules.
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+---
 
-##### Header 5
+# Publications
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+1. **Deep learning-based dose map prediction for high-dose-rate brachytherapy**  
+   *Physics in Medicine & Biology, 2023*  
+   [Access Full Text](#)
 
-###### Header 6
+2. **Knowledge-based automated dose-volume histogram prediction for quality assurance**  
+   *Journal of Applied Clinical Medical Physics, 2019*  
+   [Access Full Text](#)
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+3. **Deep learning-based autosegmentation of rectal tumors in MR images**  
+   *Medical Physics, 2018*  
+   [Access Full Text](#)
 
-### There's a horizontal rule below this.
+---
 
-* * *
+# About Me
 
-### Here is an unordered list:
+## Biography
+I hold an M.S. in Electrical and Computer Engineering from Boston University, along with degrees in Biomedical Engineering and Physics from Fudan University. My professional journey spans academic research and software engineering roles where I contributed to AI-driven healthcare solutions.
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+## Curriculum Vitae
+[Download CV](#)
 
-### And an ordered list:
+## Contact Information
+- **Email:** jiayu.lu29@outlook.com  
+- **Phone:** 857-381-1654  
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+## Social Media and Professional Profiles
+- [LinkedIn](#)  
+- [ResearchGate](#)
